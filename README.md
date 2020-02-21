@@ -54,7 +54,7 @@ What happens if we want to clear out our list of existing dogs? It is not at all
 uncommon to want to "reset" or "restart" our program. You'll be building a class
 method, `.clear_all`, that does just that. This method should operate on the
 `@@all` array of existing dogs and empty that array. **Hint:** look up the
-`Array#clear` method.
+[`Array#clear`](https://ruby-doc.org/core-2.6.1/Array.html#method-i-clear) method.
 
 ### A Note on Testing
 
